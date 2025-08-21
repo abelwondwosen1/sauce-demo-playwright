@@ -1,8 +1,4 @@
 
----
-
-### 2. `package.json`
-```json
 {
   "name": "sauce-demo-playwright",
   "version": "1.0.0",
